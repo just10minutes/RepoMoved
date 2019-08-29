@@ -1,2 +1,2 @@
 # moved
-This Repo has been moved to github.com/rajesh-h
+This Repo has been moved to https://github.com/rajesh-h
